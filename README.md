@@ -1,8 +1,8 @@
 # Welcome to ICP Bootcamp
 
-### Student: <Name> <Surname>
+### Student: Emmanuel Alvarado
 
-**About me:** Please add a short description about yourself and something that you will like to tell us.
+**About me:** I'm a cloud engineer with expirience in AWS and automation tools.
 
 ```markdown
 I have experience with (Please add the progaming language, automation tools, Linux, etc).
